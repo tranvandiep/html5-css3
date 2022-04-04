@@ -42,6 +42,9 @@ Noi dung kien thuc trong buoi 1:
 		- visual studio -> nen su dung
 		- webstorm -> su dung
 		- sublime text 4
+	- Kien thuc can tim hieu web:
+		- domain (dns) -> ten mien (google.com.vn, facebook.com) -> tao 1 dns free
+		- hosting/server: mua, free -> ??
 	- 1 Luu y khi phat trien web:
 		Moi truong OS:
 			- window/macos: abc/Abc/ABC
@@ -54,5 +57,18 @@ Noi dung kien thuc trong buoi 1:
 				- ko co khoang cach (-) -> SEO web
 	- Tao 1 du an web don gian
 	- git/github
+		- github:
+			- ten mien free
+			- hosting free
+			- tools quan tri du an:
+		- dong bo code PC <-> github project
+		TH1: github project -> empty -> day code tu may tinh len github
+			- git init -> thiet lap moi truong git trong folder du an
+			- git add -A -> gom tat ca cac file them moi hoac thay doi -> chuan bi day len tren github
+			- git commit -m 'init project' -> label -> dan vao goi hang -> chuan bi ship
+			- git remote add origin https://github.com/tranvandiep/html5-css3.git
+			- git push -u origin master
+		TH2: Ket noi du an vs github thanh
+			git add -A
 	- Tai lieu hoc <-> phuong phap hoc hieu
 	- Tim hieu kien thuc html5/css3

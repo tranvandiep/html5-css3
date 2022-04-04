@@ -70,5 +70,8 @@ Noi dung kien thuc trong buoi 1:
 			- git push -u origin master
 		TH2: Ket noi du an vs github thanh
 			git add -A
+			git commit -m 'add test.html'
+			git push origin master
+		- publish du an -> share link cho cac ban khac xem ket qua
 	- Tai lieu hoc <-> phuong phap hoc hieu
 	- Tim hieu kien thuc html5/css3
